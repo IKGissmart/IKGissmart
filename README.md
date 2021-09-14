@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IKGissmart
-- 👀 I’m interested in ... _Minecraft
+- 👀 I’m interested in ... _Minecraft_
 <!---
 IKGissmart/IKGissmart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
