@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IKGissmart(IKG).</h1>
-<h3 align="center">I am a student , coder(just knows bash) , GFX designer.</h3>
+<h3 align="center">I am a student , coder(just knows bash) and GFX designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikgissmart&label=Profile%20views&color=0e75b6&style=flat" alt="ikgissmart" /> </p>
 
